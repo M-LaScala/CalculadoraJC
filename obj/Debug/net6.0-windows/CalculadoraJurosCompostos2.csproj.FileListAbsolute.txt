@@ -1,0 +1,17 @@
+C:\Users\Matheus\Desktop\Matheus\Programação\Programas em C#\CalculadoraJurosCompostos2\bin\Debug\net6.0-windows\CalculadoraJurosCompostos2.exe
+C:\Users\Matheus\Desktop\Matheus\Programação\Programas em C#\CalculadoraJurosCompostos2\bin\Debug\net6.0-windows\CalculadoraJurosCompostos2.deps.json
+C:\Users\Matheus\Desktop\Matheus\Programação\Programas em C#\CalculadoraJurosCompostos2\bin\Debug\net6.0-windows\CalculadoraJurosCompostos2.runtimeconfig.json
+C:\Users\Matheus\Desktop\Matheus\Programação\Programas em C#\CalculadoraJurosCompostos2\bin\Debug\net6.0-windows\CalculadoraJurosCompostos2.dll
+C:\Users\Matheus\Desktop\Matheus\Programação\Programas em C#\CalculadoraJurosCompostos2\bin\Debug\net6.0-windows\CalculadoraJurosCompostos2.pdb
+C:\Users\Matheus\Desktop\Matheus\Programação\Programas em C#\CalculadoraJurosCompostos2\obj\Debug\net6.0-windows\CalculadoraJurosCompostos2.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\Matheus\Programação\Programas em C#\CalculadoraJurosCompostos2\obj\Debug\net6.0-windows\CalculadoraJurosCompostos2.Form1.resources
+C:\Users\Matheus\Desktop\Matheus\Programação\Programas em C#\CalculadoraJurosCompostos2\obj\Debug\net6.0-windows\CalculadoraJurosCompostos2.csproj.GenerateResource.cache
+C:\Users\Matheus\Desktop\Matheus\Programação\Programas em C#\CalculadoraJurosCompostos2\obj\Debug\net6.0-windows\CalculadoraJurosCompostos2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\Matheus\Programação\Programas em C#\CalculadoraJurosCompostos2\obj\Debug\net6.0-windows\CalculadoraJurosCompostos2.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\Matheus\Programação\Programas em C#\CalculadoraJurosCompostos2\obj\Debug\net6.0-windows\CalculadoraJurosCompostos2.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\Matheus\Programação\Programas em C#\CalculadoraJurosCompostos2\obj\Debug\net6.0-windows\CalculadoraJurosCompostos2.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Matheus\Programação\Programas em C#\CalculadoraJurosCompostos2\obj\Debug\net6.0-windows\CalculadoraJurosCompostos2.dll
+C:\Users\Matheus\Desktop\Matheus\Programação\Programas em C#\CalculadoraJurosCompostos2\obj\Debug\net6.0-windows\refint\CalculadoraJurosCompostos2.dll
+C:\Users\Matheus\Desktop\Matheus\Programação\Programas em C#\CalculadoraJurosCompostos2\obj\Debug\net6.0-windows\CalculadoraJurosCompostos2.pdb
+C:\Users\Matheus\Desktop\Matheus\Programação\Programas em C#\CalculadoraJurosCompostos2\obj\Debug\net6.0-windows\CalculadoraJurosCompostos2.genruntimeconfig.cache
+C:\Users\Matheus\Desktop\Matheus\Programação\Programas em C#\CalculadoraJurosCompostos2\obj\Debug\net6.0-windows\ref\CalculadoraJurosCompostos2.dll
